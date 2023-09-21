@@ -6,13 +6,21 @@
 ```
 ---
 + Week 1: *(Completed in 2023-09-08)* *(4 Problems/4 Solved)* ✅
-	+ [<01>]()
+	+ [<01>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week1/Week1_01.c)
+	[<02>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week1/Week1_02.c)
+	[<03>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week1/Week1_03.c)
+	[<04>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week1/Week1_04.c)
 #
 + Week 2: *(Completed in 2023-09-14)* *(4 Problems/4 Solved)* ✅
-	+ [<01>]()
+	+ [<01>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week2/Week2_01.c)
+	[<02>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week2/Week2_02.c)
+	[<03>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week2/Week2_03.c)
+	[<04>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week2/Week2_04.c)
 #
 + Week 3: *(Completed in 2023-09-21)* *(3 Problems/3 Solved)* ✅
-	+ [<01>]()
+	+ [<01>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week3/Week3_01.c)
+	[<02>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week3/Week3_02.c)
+	[<03>](https://github.com/ParrotMan0128/AP2023/blob/86cdc1ee98cf77854bc1f757bcbf5d8fa9459136/Week3/Week3_03.c)
 
 #
 ---
