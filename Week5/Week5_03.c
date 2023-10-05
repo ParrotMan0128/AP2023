@@ -4,7 +4,7 @@
 int main() {
 
 	int n;
-	
+
 	scanf("%d", &n);
 
 	int size_of_array = n * 4;
