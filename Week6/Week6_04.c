@@ -21,7 +21,7 @@ int main(void) {
     printf("입력한 홀수의 수는 %d\n", odd_numbers);
 
     return 0;
-    
+
 }
 
 int odd(int v) {
